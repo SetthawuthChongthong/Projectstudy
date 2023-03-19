@@ -1,0 +1,15 @@
+"""  HELLO PYTHON """
+print('           PPPPPPPPPPPPPPPP    Y         Y     TTTTTTTTTTTTTTTT        H            H        OOOOOOOOOOOOOOO        NNNNNN           N\n')
+print('           P              P     Y       Y              T               H            H      O                 O      N     N          N\n')
+print('           P              P      Y     Y               T               H            H     O                   O     N      N         N\n')
+print('           P              P       Y   Y                T               H            H     O                   O     N       N        N\n')
+print('           P              P        Y Y                 T               H            H     O                   O     N        N       N\n')
+print('           PPPPPPPPPPPPPPPP         Y                  T               HHHHHHHHHHHHHH     O                   O     N         N      N\n')
+print('           P                        Y                  T               H            H     O                   O     N          N     N\n')
+print('           P                        Y                  T               H            H     O                   O     N           N    N\n')
+print('           P                        Y                  T               H            H     O                   O     N            N   N\n')
+print('           P                        Y                  T               H            H     O                   O     N             N  N\n')
+print('           P                        Y                  T               H            H      O                 O      N              N N\n')
+print('           P                        Y                  T               H            H       OO             OO       N               NN\n')
+print('           P                        Y                  T               H            H          OOOOOOOOOOO          N                N\n')
+
